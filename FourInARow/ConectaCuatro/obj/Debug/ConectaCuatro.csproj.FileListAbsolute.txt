@@ -1,0 +1,10 @@
+C:\Users\manue\source\repos\ConectaCuatro\ConectaCuatro\bin\Debug\ConectaCuatro.exe.config
+C:\Users\manue\source\repos\ConectaCuatro\ConectaCuatro\bin\Debug\ConectaCuatro.exe
+C:\Users\manue\source\repos\ConectaCuatro\ConectaCuatro\bin\Debug\ConectaCuatro.pdb
+C:\Users\manue\source\repos\ConectaCuatro\ConectaCuatro\obj\Debug\ConectaCuatro.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ConectaCuatro\ConectaCuatro\obj\Debug\ConectaCuatro.Form1.resources
+C:\Users\manue\source\repos\ConectaCuatro\ConectaCuatro\obj\Debug\ConectaCuatro.Properties.Resources.resources
+C:\Users\manue\source\repos\ConectaCuatro\ConectaCuatro\obj\Debug\ConectaCuatro.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\ConectaCuatro\ConectaCuatro\obj\Debug\ConectaCuatro.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ConectaCuatro\ConectaCuatro\obj\Debug\ConectaCuatro.exe
+C:\Users\manue\source\repos\ConectaCuatro\ConectaCuatro\obj\Debug\ConectaCuatro.pdb

@@ -1,0 +1,7 @@
+C:\Users\manue\source\repos\ClienteServidor\ClienteServidor\bin\Debug\ClienteServidor.exe.config
+C:\Users\manue\source\repos\ClienteServidor\ClienteServidor\bin\Debug\ClienteServidor.exe
+C:\Users\manue\source\repos\ClienteServidor\ClienteServidor\bin\Debug\ClienteServidor.pdb
+C:\Users\manue\source\repos\ClienteServidor\ClienteServidor\obj\Debug\ClienteServidor.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ClienteServidor\ClienteServidor\obj\Debug\ClienteServidor.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ClienteServidor\ClienteServidor\obj\Debug\ClienteServidor.exe
+C:\Users\manue\source\repos\ClienteServidor\ClienteServidor\obj\Debug\ClienteServidor.pdb
